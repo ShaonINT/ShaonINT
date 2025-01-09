@@ -8,9 +8,10 @@ I am a results-driven data scientist passionate about leveraging **Agentic AI ap
 
 ## 🌟 About Me
 - 🧠 **Specialties**:
-  - Developing **Agentic AI applications** for business and industrial use cases.
-  - Building **machine learning models** to solve critical business problems.
-  - Conducting advanced data analysis to uncover patterns and drive data-informed decision-making.
+  - Building and deploying **machine learning** and **deep learning models** to solve business problems.
+  - Conducting advanced data analysis for actionable insights and decision-making.
+  - Exploring innovative AI solutions, with a keen interest in **Agentic AI**.
+
 
 - 💡 **Technical Expertise**:
   - **AI/ML Frameworks**: TensorFlow, Keras, Scikit-learn
@@ -19,6 +20,7 @@ I am a results-driven data scientist passionate about leveraging **Agentic AI ap
   - **Other Tools**: Jupyter Notebook, PyCharm, Excel
 
 - 🎯 **Learning Goals**:
+  - Learning to develop **Agentic AI applications** for business and industrial use cases.
   - Currently mastering **PyCharm** for building end-to-end projects.
   - Planning to integrate **MLFLOW**, **DVC**, **DagsHub**, and **AWS** into future projects to streamline workflows and enhance scalability.
 
