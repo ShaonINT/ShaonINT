@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Shaon Biswas!
 
-🚀 **Data Scientist | Machine Learning Specialist| Aspiring Agentic AI Application Developer **
+🚀 **Data Scientist | Machine Learning Specialist| Aspiring Agentic AI Application Developer**
 
 I am a results-driven data scientist passionate about leveraging **Agentic AI applications** and **machine learning models** to address complex business challenges and create impactful solutions. My expertise spans developing AI-driven systems, predictive analytics, and advanced data analysis for actionable insights.
 
