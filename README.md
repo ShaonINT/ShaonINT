@@ -2,7 +2,7 @@
 
 🚀 **Data Scientist | BI Specialist | AI & MLOps Practitioner**
 
-I am a **Business Intelligence & Data Analytics professional** with over 5 years of experience driving business performance through actionable insights. With dual Master’s degrees in **AI & Data Science** (Distinction) and **International Business Management**, I specialize in bridging the gap between complex algorithms and strategic business decisions.
+I am a **Business Intelligence & Data Analytics professional** with over 5 years of experience driving business performance through actionable insights. With dual Master’s degrees in **AI & Data Science** (Distinction) and **Business Management**, I specialize in bridging the gap between complex algorithms and strategic business decisions.
 
 Currently, I am focused on **Full-Stack Data Science**—moving beyond static notebooks to build deployable, end-to-end AI applications using **Agentic AI** and **MLOps** principles.
 
@@ -10,19 +10,19 @@ Currently, I am focused on **Full-Stack Data Science**—moving beyond static no
 
 ## 🌟 About Me
 🧠 **The "Why":**
-I don't just train models; I build products. My background in International Business allows me to translate technical data into ROI-driven strategies. I have a proven record of improving operational efficiency for companies in Retail, Logistics, and Manufacturing[cite: 16, 23, 29].
+I don't just train models; I build products. My background in International Business Management allows me to translate technical data into ROI-driven strategies. I have a proven record of improving operational efficiency for companies in Retail, Logistics, and Manufacturing.
 
 💡 **Technical Expertise**:
-* [cite_start]**Languages:** Python (Advanced), SQL, PowerShell[cite: 9, 11].
-* [cite_start]**Machine Learning:** XGBoost, PyTorch, Scikit-learn, LSTM/ARIMA Forecasting[cite: 9, 56].
-* [cite_start]**Deployment & MLOps:** Docker, FastAPI, Render, Azure[cite: 6, 49].
-* [cite_start]**Agentic AI:** Phidata, Groq, LLM Integration[cite: 54].
-* [cite_start]**Visualization:** Power BI (Advanced), DAX, Matplotlib[cite: 10].
+* **Languages:** Python, SQL
+* **Data Science & Analysis:** Predictive Analytics, Machine Learning, Deep Learning, Statistical Analysis, Feature Engineering, Exploratory Data Analysis (EDA), Data Cleaning.
+* **Deployment & MLOps:** Docker, FastAPI, Render.
+* **Agentic AI:** Phidata, Groq, LLM Integration.
+* **Visualization:** Power BI (Advanced), DAX, Matplotlib.
 
 🎯 **Current Focus**:
-* [cite_start]**Building:** Autonomous multi-agent systems for financial research (see *Stock Analysis App*)[cite: 54].
+* **Building:** Autonomous multi-agent systems for a few industries of my interest (see *Stock Analysis App*).
 * **Deploying:** Production-grade diagnostic tools with real-time inference (see *Breast Cancer Detection*).
-* [cite_start]**Scaling:** Mastering AI Infrastructure and Operations (NVIDIA certified)[cite: 49].
+
 
 ---
 
@@ -38,26 +38,26 @@ A deployed web application for tumor classification, optimized for **High Recall
 *Autonomous Research Agents*
 A multi-agent application utilizing **Phidata** and **Groq** to automate financial research.
 * **Tech:** Large Language Models (LLMs), Agentic Workflows.
-* [cite_start]**Highlight:** Automates data retrieval, analysis, and summary generation[cite: 54, 55].
+* **Highlight:** Automates data retrieval, analysis, and summary generation.
 
 ### **🌍 Global Energy Usage Forecasting**
 *Time-Series Forecasting*
 Long-horizon energy consumption models (2020–2040) to support utility planning.
 * **Tech:** LSTM, ARIMA, Python.
-* [cite_start]**Highlight:** Generated scenario-based insights for long-term resource allocation[cite: 56].
+* **Highlight:** Generated scenario-based insights for long-term resource allocation.
 
 ---
 
 ## 🎓 Education
-* **MSc Artificial Intelligence & Data Science (Distinction)** | [cite_start]*University of Hull* (2023-2024) [cite: 37]
-* **MSc International Business Management (Merit)** | [cite_start]*Sheffield Hallam University* (2014-2015) [cite: 42]
-* **BBA (Magna Cum Laude)** | [cite_start]*American International University - Bangladesh* (2010-2013) [cite: 44]
+* **MSc Artificial Intelligence & Data Science (Distinction)** | *University of Hull* (2023-2024)
+* **MSc International Business Management (Merit)** | *Sheffield Hallam University* (2014-2015)
+* **BBA (Magna Cum Laude)** | *American International University - Bangladesh* (2010-2013)
 
 ---
 
 ## 📬 Let’s Connect!
-* [cite_start]💼 **LinkedIn**: [Shaon Biswas](https://www.linkedin.com/in/shaonbiswas) [cite: 3]
-* [cite_start]📧 **Email**: biswas.shaon@gmail.com [cite: 2]
+* 💼 **LinkedIn**: [Shaon Biswas](https://www.linkedin.com/in/shaonbiswas)
+* 📧 **Email**: biswas.shaon@gmail.com
 
 ---
-[cite_start]💡 *"Translating complex data into strategic recommendations."* [cite: 7]
+💡 *"Translating complex data into strategic recommendations."*
