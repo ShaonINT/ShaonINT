@@ -9,8 +9,7 @@ Currently, I am focused on **Full-Stack Data Science**—moving beyond static no
 ---
 
 ## 🌟 About Me
-🧠 **The "Why":**
-I don't just train models; I build products. My background in International Business Management allows me to translate technical data into ROI-driven strategies. I have a proven record of improving operational efficiency for companies in Retail, Logistics, and Manufacturing.
+🧠 **The "Why":** My professional foundation is built on optimizing operations in the **Retail Tech** industry. However, I am driven to apply these data science principles to broader challenges. I actively contribute to the **Healthcare** and **Finance** sectors through open-source development and academic research, aiming to solve complex problems across diverse domains.
 
 💡 **Technical Expertise**:
 * **Languages:** Python, SQL
