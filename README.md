@@ -2,15 +2,15 @@
 
 🚀 **Data Scientist | BI Specialist | AI & MLOps Practitioner**
 
-[cite_start]I am a **Business Intelligence & Data Analytics professional** with over 5 years of experience driving business performance through actionable insights[cite: 5]. [cite_start]With dual Master’s degrees in **AI & Data Science** (Distinction) and **Business Management**, I specialize in bridging the gap between complex algorithms and strategic business decisions[cite: 6, 7].
+I am a **Business Intelligence & Data Analytics professional** with over 5 years of experience driving business performance through actionable insights. With dual Master’s degrees in **AI & Data Science** (Distinction) and **International Business Management**, I specialize in bridging the gap between complex algorithms and strategic business decisions.
 
-[cite_start]Currently, I am focused on **Full-Stack Data Science**—moving beyond static notebooks to build deployable, end-to-end AI applications using **Agentic AI** and **MLOps** principles[cite: 54, 55].
+Currently, I am focused on **Full-Stack Data Science**—moving beyond static notebooks to build deployable, end-to-end AI applications using **Agentic AI** and **MLOps** principles.
 
 ---
 
 ## 🌟 About Me
 🧠 **The "Why":**
-I don't just train models; I build products. [cite_start]My background in International Business allows me to translate technical data into ROI-driven strategies[cite: 6, 7]. [cite_start]I have a proven record of improving operational efficiency for companies in Retail, Logistics, and Manufacturing[cite: 16, 23, 29].
+I don't just train models; I build products. My background in International Business allows me to translate technical data into ROI-driven strategies. I have a proven record of improving operational efficiency for companies in Retail, Logistics, and Manufacturing[cite: 16, 23, 29].
 
 💡 **Technical Expertise**:
 * [cite_start]**Languages:** Python (Advanced), SQL, PowerShell[cite: 9, 11].
